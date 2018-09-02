@@ -1,0 +1,33 @@
+.color-black {
+    color: black;
+}
+
+.tab-pane {
+    padding: 25px;
+}
+
+#bio-pic {
+    float: left;
+    padding-right: 20px;
+}
+
+#family-pic {
+    float: right;
+    padding-left: 20px;
+}
+
+.bio-paragraph {
+    text-align: left;
+    font-size: 18px;
+    line-height: 2.0;
+}
+
+/* Media Queries */
+@media screen and (max-width: 767px) {
+    #bio-pic,
+    #family-pic {
+        float: none;
+    }
+}
+
+/* End */
