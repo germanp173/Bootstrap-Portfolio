@@ -1,5 +1,5 @@
 .container {
-    min-height: calc(100vh - 250px);
+    min-height: calc(100vh - 255px);
 }
 
 footer {
@@ -7,7 +7,6 @@ footer {
     background-color: #343a40;
     height: 175px;
     padding: 25px 0px 25px 0px;
-    overflow: auto;
 }
 
 footer p {
