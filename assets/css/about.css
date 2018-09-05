@@ -22,6 +22,18 @@
     line-height: 2.0;
 }
 
+.set-margin-bottom {
+    margin-bottom: 20px;
+}
+
+.rotate-180 {
+    transform:rotate(180deg);
+}
+
+.rotate-90 {
+    transform:rotate(90deg);
+}
+
 /* Media Queries */
 @media screen and (max-width: 767px) {
     #bio-pic,
